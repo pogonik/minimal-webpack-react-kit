@@ -26,10 +26,10 @@
   "dependencies": {
     "history": "^2.0.1",
     "material-ui": "^0.15.0-alpha.2",
-    "minified": "^1.0.1",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
     "react-router": "^2.0.1",
-    "react-tap-event-plugin": "^0.2.2"
+    "react-tap-event-plugin": "^0.2.2",
+    "sprint-js": "^0.1.0"
   }
 }
